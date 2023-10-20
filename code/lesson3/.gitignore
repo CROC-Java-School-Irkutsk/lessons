@@ -1,0 +1,20 @@
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Editor directories and files
+## Eclipse
+.settings/
+*.checkstyle
+*.classpath
+*.project
+*.fbExcludeFilterFile
+.factorypath
+**/.sts4-cache/
+.temp-*.txt
+
+## IDEA
+.idea
+*.iml
+
+## VSCode
+.vscode
