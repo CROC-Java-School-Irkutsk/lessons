@@ -21,3 +21,5 @@
 ## Занятие 5
 - [слайды](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%205.pptx), домашнее задание на последнем слайде.
 - [Matrix](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/src/lesson5), примеры матриц и однопоточный алгоритм. Код можно взять себе и реализовать многопоточный вариант.
+## Занятие 6
+- [слайды](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%206.pptx), домашнее задание на последних двух слайдах.
