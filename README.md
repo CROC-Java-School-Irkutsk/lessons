@@ -23,3 +23,6 @@
 - [Matrix](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/src/lesson5), примеры матриц и однопоточный алгоритм. Код можно взять себе и реализовать многопоточный вариант.
 ## Занятие 6
 - [слайды](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%206.pptx), домашнее задание на последних двух слайдах.
+## Занятие 7
+- [слайды](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%207.pptx?raw=true)
+- [итоговое ДЗ](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%94%D0%97.docx?raw=true)
