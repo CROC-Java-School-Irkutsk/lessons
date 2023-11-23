@@ -26,3 +26,5 @@
 ## Занятие 7
 - [слайды](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%207.pptx?raw=true)
 - [итоговое ДЗ](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%94%D0%97.docx?raw=true)
+## Занятие 8
+- [слайды](https://github.com/CROC-Java-School-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%208.pptx)
